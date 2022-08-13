@@ -1,4 +1,4 @@
-# HACKATHON_BTB
+        OPEN SOURCE CONTACT MANAGEMENT SYSTEM
 INTRODUCTION TO PROJECT
 Project Title : Open Source Contact Management System
 Front End     : TURBOC++ Compiler
